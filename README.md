@@ -76,13 +76,3 @@ If Windows complains about:
     ![/imgs/docker-success.png](imgs/docker-success.png)
 
     - If some database is not up, because we start only some of them the test of the started databases must PASS, the others not.
-
-## (Tentative) Calendar
-- Lecture 01 (4h): Introduction to NoSQL databases (until slide 48) and start software installation
-- Lecture 02 (4h): Introduction to NoSQL databases and software installation, Cassandra
-- Lecture 03 (4h): Test teoria, Cassandra
-- Lecture 04 (4h): Cassandra, Neo4J
-- Lecture 05 (4h): Test Cassandra, Neo4J
-- Lecture 06 (4h): Neo4J, MongoDB Find
-- Lecture 07 (4h): Test Neo4J, MongoDB Find
-- Lecture 08 (2h): Test MongoDB, ...
