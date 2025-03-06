@@ -102,6 +102,3 @@ Esempio:
 ls --help  # Mostra le opzioni disponibili per 'ls'
 man ls  # Mostra il manuale di 'ls'
 ```
-
-Questa guida copre i concetti fondamentali del terminale Unix/Linux. Con la pratica, diventerai sempre più veloce ed efficiente nell'uso della riga di comando! 🚀
-
