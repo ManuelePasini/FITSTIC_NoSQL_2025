@@ -16,4 +16,4 @@
 - <b>rm</b>: removes a file or a folder
 - <b>chmod</b>: updates a folder/file permissions, e.g. chmod 777 pippo.sh allows any user to both read, write and execute pippo.sh.
 - <b>pwd</b>: prints current directory
-- <b>gedit</b>: if present, opens a textual IDE.
+- <b>gedit</b>: if present, opens a textual IDE.    
