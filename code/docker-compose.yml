@@ -83,7 +83,6 @@ services:
     volumes:
       - ./mongodb/data/:/data
     command: /bin/bash -c "mongoimport  --host=mongodb -d exercises -c foo --file=/data/foo.json --jsonArray &&
-      mongorestore --host=mongodb -d exercises -c restaurants /data/restaurants.json &&
       mongorestore --host=mongodb -d exercises -c games /data/games.bson &&
       mongorestore --host=mongodb -d exercises -c yelpbusiness /data/yelp-business.bson"
 
